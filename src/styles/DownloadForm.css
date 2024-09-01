@@ -1,0 +1,41 @@
+.download-section {
+  text-align: center;
+  padding: 50px;
+  background: linear-gradient(135deg, #e0eafc, #cfdef3);
+}
+
+.download-section h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+.download-section p {
+  font-size: 1.1em;
+  margin-bottom: 30px;
+}
+
+.download-section form {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.download-section input {
+  padding: 10px;
+  width: 300px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.download-section button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.download-section button:hover {
+  background-color: #0056b3;
+}
